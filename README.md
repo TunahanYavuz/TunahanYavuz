@@ -62,9 +62,19 @@ Classic Tic-Tac-Toe game in C — fun and great for understanding game loops & s
 
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/TunahanYavuz?label=Followers)
-![Stars](https://img.shields.io/github/stars/TunahanYavuz?label=Total%20Stars)
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethem4rin&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TunahanYavuz&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TunahanYavuz&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TunahanYavuz&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TunahanYavuz&theme=tokyonight&utcOffset=3" />
+</p>
 
 ---
 
