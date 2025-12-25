@@ -60,15 +60,11 @@ Classic Tic-Tac-Toe game in C — fun and great for understanding game loops & s
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TunahanYavuz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=TunahanYavuz&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanYavuz&layout=compact&langs_count=8&hide_border=true" />
-</p>
+- 🔢 Public Repositories
+- ⭐ Total Stars
+- 🧑‍💻 Contribution Graph (otomatik)
 
 
 ---
