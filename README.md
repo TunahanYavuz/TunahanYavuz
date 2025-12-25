@@ -55,8 +55,8 @@ A basic calculator implemented in C — excellent for practicing logic and UI fu
 ### 🔹 **XOX_GAME**  
 Classic Tic-Tac-Toe game in C — fun and great for understanding game loops & simple logic.
 
-> You can pin these or more repos on your GitHub profile to highlight them. :contentReference[oaicite:1]{index=1}
-
+### 🔹 **Bevy_Rust**
+Game Developing with rust bevy engine
 ---
 
 
