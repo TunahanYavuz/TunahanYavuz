@@ -63,7 +63,7 @@ Game Developing with rust bevy engine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethem4rin&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TunahanYavuz&theme=tokyonight" />
 </p>
 
 <p align="center">
