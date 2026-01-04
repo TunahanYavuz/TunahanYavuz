@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering student passionate about building real-world applications  
+- 🎓 Software Engineering student passionate about building real-world applications  
 - 💡 Learning Full-Stack Development and Rust  
 - 👨‍💻 I enjoy working on small tools, games & web projects  
 - 💬 Always open to collaboration and learning new tech
