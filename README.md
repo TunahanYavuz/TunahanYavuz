@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <b>Tunahan Yavuz</b></h1>
 
 <p align="center">
-  3rd Year Software Engineering Student at Kırklareli University  
+  4th Year Software Engineering Student at Kırklareli University  
   📍 Yomra / Trabzon  
 </p>
 
